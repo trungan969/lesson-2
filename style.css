@@ -1,0 +1,33 @@
+﻿.q1 {
+  text-align: center;
+}
+h1 {
+  color: #006600;
+}
+.q2 {
+  color: #0000ff;
+  text-decoration: underline;
+}
+p {
+  font-weight: bold;
+}
+.q3 {
+  color: #ff3399;
+  background-color: #fecffd;
+}
+div {
+  background-color: #ffffcc;
+  font-style: italic;
+}
+.q4 {
+  color: blue;
+}
+.q5 {
+  color: brown;
+}
+.q6 {
+  color: green;
+}
+hr {
+  width: 30%;
+}
